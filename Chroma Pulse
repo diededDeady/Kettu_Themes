@@ -40,7 +40,7 @@
     "CHANNELS_DEFAULT": ["#00ffff"],
     "CHANNEL_ICON": ["#8a2be2"],
     "CHANNELTEXTAREA_BACKGROUND": ["#3a3d5e"],
-    "EMBED_BACKGROUND": ["rgba(26,28,46,0.4)"],
+    "EMBED_BACKGROUND": ["rgba(26,28,46,0.2)"],
     "HEADER_PRIMARY": ["#ffffff"],
     "HEADER_SECONDARY": ["#b3b3ff"],
     "INTERACTIVE_ACTIVE": ["#8a2be2"],
